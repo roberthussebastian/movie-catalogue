@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Catalogue</string>
+    <string name="title_activity_detail_movies">Movies Catalogue</string>
+    <string name="title_activity_detail_tvshow">Tv Shows Catalogue</string>
+    <string name="title">Title</string>
+    <string name="pubYear">Terbit</string>
+    <string name="pubYear_date">Terbit %s</string>
+    <string name="description">Description</string>
+    <string name="description_movies">Deskripsi Movies</string>
+    <string name="title_shows">Title</string>
+    <string name="pubYear_shows">Terbit</string>
+    <string name="description_shows">Description</string>
+    <string name="description_tvShows">Deskripsi Tv Shows</string>
+    <string name="movies">Movies</string>
+    <string name="tvShows">Tv Shows</string>
+    <string name="about_me">About</string>
+    <string name="movies_list">Movies List</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
